@@ -1,16 +1,31 @@
 ### gm fren 👋
-# I am 🗡️ Ronin / 0xRonin
+# I am 🗡️0xRonin
 ### ✨aspiring 🔮web3 🧙‍♂️developer
+<br>
+🔭 I’m currently Learning and Contributing on LearnWeb3Dao <br>
+🤝 I’m looking for help with development in Blockchain and MEV <br>
+🌱 I’m currently learning Solidity <br>
+💬 Ask me about Philosophy and Bodybuilding <br>
+🌎 My side on the internet is www.0xron.in <br><br>
+👨‍💻 My projects
 
-🔭 I’m currently Learning and Contributing on LearnWeb3Dao
-🤝 I’m looking for help with Blockchain development and MEV
-🌱 I’m currently learning Solidity
-💬 Ask me about Philosophy
-🌎 My side on the internet www.0xron.in [portfolio under construction 🚧]
-👨‍💻 All of my projects are available on Github
-📝 I regularly write articles on www.crypthik.com
+### ⬜ Navalmanack
+The Almanack of Naval Ravikant by Naval Ravikant and Eric Jorgenson 
+Book that can be read directly on your web browser. https://0xronin.github.io/Navalmanack/
 
-## 🌐Socials
+### 🟥 Paul Graham Essays 
+Essays by Paul Graham, with read percentage indicator and dark mode. https://0xronin.github.io/paulgraham-essays/
+
+### 🟪 Simple ToDo App
+Minimal Todo App, save tasks and todo lists, cross off when finished. Light and Dark Mode. https://0xronin.github.io/ToDo/
+
+### 🟩 Crypthik Blog
+Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. www.crypthik.com
+
+## ✨Solidity Sundays
+A challenge that I have given myself to build a small WEB3 application every sunday and share the code here. Feel free to reach out to me if you face any issues while following along. My twitter is down below.
+
+## 🐦Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xZKP) 
 
 # 💻Tech Stack
