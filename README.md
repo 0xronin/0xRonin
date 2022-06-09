@@ -1,6 +1,6 @@
 ### gm fren 👋
 # I am 🗡️ Ronin / 0xRonin
-### ✨aspiring 🔮web3 developer
+### ✨aspiring 🔮web3 🧙‍♂️developer
 
 🔭 I’m currently Learning and Contributing on LearnWeb3Dao
 🤝 I’m looking for help with Blockchain development and MEV
