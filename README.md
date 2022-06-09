@@ -23,7 +23,7 @@ Minimal Todo App, save tasks and todo lists, cross off when finished. Light and 
 Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. www.crypthik.com
 
 ## ✨Solidity Sundays
-A challenge that I have given myself to build a small WEB3 application every sunday and share the code here. Feel free to reach out to me if you face any issues while following along. My twitter is down below.
+A challenge that I have given myself to build a small WEB3 application every sunday and share the code here. Feel free to reach out to me if you face any issues while following along.
 
 ## 🐦Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xZKP) 
