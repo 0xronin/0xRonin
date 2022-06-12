@@ -7,7 +7,11 @@
 🌱 I’m currently learning Solidity <br>
 💬 Ask me about Philosophy and Bodybuilding <br>
 🌎 My side on the internet is www.0xron.in <br><br>
-👨‍💻 My projects
+
+## 🛣️ My Blockchain Developement Journey
+https://github.com/0xronin/my-own-fellowship-program-2022
+
+## 👨‍💻 My Projects
 
 ### ⬜ Navalmanack
 The Almanack of Naval Ravikant by Naval Ravikant and Eric Jorgenson 
