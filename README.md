@@ -2,7 +2,7 @@
 # I am 🗡️0xRonin
 ### ✨aspiring 🔮web3 🧙‍♂️developer
 <br>
-🔭 I’m currently Learning and Contributing on LearnWeb3Dao <br>
+🔭 I’m currently Learning and Contributing on LearnWeb3Dao (https://twitter.com/LearnWeb3DAO) <br>
 🤝 I’m looking for help with development in Blockchain and MEV <br>
 🌱 I’m currently learning Solidity <br>
 💬 Ask me about Philosophy and Bodybuilding <br>
@@ -15,16 +15,16 @@ https://github.com/0xronin/my-own-fellowship-program-2022
 
 ### ⬜ Navalmanack
 The Almanack of Naval Ravikant by Naval Ravikant and Eric Jorgenson 
-Book that can be read directly on your web browser. https://0xronin.github.io/Navalmanack/
+Book that can be read directly on your web browser. [Try](https://0xronin.github.io/Navalmanack/)
 
 ### 🟥 Paul Graham Essays 
-Essays by Paul Graham, with read percentage indicator and dark mode. https://0xronin.github.io/paulgraham-essays/
+Essays by Paul Graham, with read percentage indicator and dark mode. [Try](https://0xronin.github.io/paulgraham-essays/)
 
 ### 🟪 Simple ToDo App
-Minimal Todo App, save tasks and todo lists, cross off when finished. Light and Dark Mode. https://0xronin.github.io/ToDo/
+Minimal Todo App, save tasks and todo lists, cross off when finished. Light and Dark Mode. [Try](https://0xronin.github.io/ToDo/)
 
 ### 🟩 Crypthik Blog
-Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. www.crypthik.com
+Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
 
 ## ✨Solidity Sundays
 A challenge that I have given myself to build a small WEB3 application every sunday and share the code here. Feel free to reach out to me if you face any issues while following along.
