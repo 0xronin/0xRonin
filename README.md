@@ -14,17 +14,17 @@ https://github.com/0xronin/my-own-fellowship-program-2022
 
 ## 💻 My Projects
 
-### ⬜ Navalmanack
+### 📦 Navalmanack
 The Almanack of Naval Ravikant by Naval Ravikant and Eric Jorgenson 
 Book that can be read directly on your web browser. [Try](https://0xronin.github.io/Navalmanack/)
 
-### 🟥 Paul Graham Essays 
+### 📦 Paul Graham Essays 
 Essays by Paul Graham, with read percentage indicator and dark mode. [Try](https://0xronin.github.io/paulgraham-essays/)
 
-### 🟪 Simple ToDo App
+### 📦 Simple ToDo App
 Minimal Todo App, save tasks and todo lists, cross off when finished. Light and Dark Mode. [Try](https://0xronin.github.io/ToDo/)
 
-### 🟩 Crypthik Blog
+### 📦 Crypthik Blog
 Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
 
 ## ✨Solidity Sundays
