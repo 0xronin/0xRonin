@@ -12,7 +12,7 @@
 ## 🛣️ My Blockchain Developement Journey
 https://github.com/0xronin/my-own-fellowship-program-2022
 
-## 👨‍💻 My Projects
+## 💻 My Projects
 
 ### ⬜ Navalmanack
 The Almanack of Naval Ravikant by Naval Ravikant and Eric Jorgenson 
