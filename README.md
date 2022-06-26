@@ -6,7 +6,7 @@
 🤝 I’m looking for help with development in Blockchain and MEV <br>
 🌱 I’m currently learning Solidity <br>
 💬 Ask me about Philosophy and Bodybuilding <br>
-🌎 My side on the internet is www.0xron.in <br>
+🌎 My side on the internet is https://0xron.in <br>
 👨‍💻 HoursOfCode: 02:19 (Updated Daily)
 
 ## 🛣️ My Blockchain Developement Journey
