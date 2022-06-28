@@ -2,9 +2,9 @@
 # I am 🗡️0xRonin
 ### ✨aspiring 🔮web3 🧙‍♂️developer
 <br>
-🔭 I’m currently Learning and Contributing on LearnWeb3Dao (https://twitter.com/LearnWeb3DAO) <br>
-🤝 I’m looking for help with development in Blockchain and MEV <br>
-🌱 I’m currently learning Solidity <br>
+🔭 I’m currently learning to build dapps <br>
+🤝 I’m interested in ETH and MEV <br>
+🌱 I’ve recently started learning Solidity <br>
 💬 Ask me about Philosophy and Bodybuilding <br>
 🌎 My side on the internet is www.0xron.in <br>
 👨‍💻 HoursOfCode: 02:19 (Updated Daily)
