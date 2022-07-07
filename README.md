@@ -9,9 +9,6 @@
 🌎 My side on the internet is www.0xron.in <br>
 👨‍💻 HoursOfCode: 02:19 (Updated Daily)
 
-## 🛣️ My Blockchain Developement Journey
-https://github.com/0xronin/my-own-fellowship-program-2022
-
 ## 💻 My Projects
 
 ### 📦 Navalmanack
