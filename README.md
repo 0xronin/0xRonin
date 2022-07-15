@@ -27,8 +27,11 @@ Minimal Todo App, save tasks and todo lists, cross off when finished. Light and 
 ### 📦 Crypthik Blog
 Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
 
-## ✨Solidity Sundays
+## ✨Web3 Weekends
 A challenge that I have given myself to build a small WEB3 application every sunday and share the code here. Feel free to reach out to me if you face any issues while following along.
+
+### 📦 NFT Fetcher
+NFT fetching web dapp using the NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
 
 ## 🐦Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xZKP) 
