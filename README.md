@@ -15,10 +15,10 @@ https://github.com/0xronin/My-Blockchain-Developement-Journey
 ## 💻 My Projects
 
 ## ✨Web3 Weekends
-A challenge that I have given myself to build a small WEB3 application every weekend and share the code here. 
+A challenge that I have given myself to build a small WEB3 dapp every weekend and share the code here. 
 
 ### 📦 NFT Fetcher
-NFT fetching web dapp using the NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
+NFT fetching web dapp using NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
 
 ### 📦 Crypthik Blog
 Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
