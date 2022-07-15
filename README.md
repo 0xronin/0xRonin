@@ -14,6 +14,15 @@ https://github.com/0xronin/My-Blockchain-Developement-Journey
 
 ## 💻 My Projects
 
+## ✨Web3 Weekends
+A challenge that I have given myself to build a small WEB3 application every weekend and share the code here. 
+
+### 📦 NFT Fetcher
+NFT fetching web dapp using the NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
+
+### 📦 Crypthik Blog
+Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
+
 ### 📦 Navalmanack
 The Almanack of Naval Ravikant by Naval Ravikant and Eric Jorgenson 
 Book that can be read directly on your web browser. [Try](https://0xronin.github.io/Navalmanack/)
@@ -24,14 +33,6 @@ Essays by Paul Graham, with read percentage indicator and dark mode. [Try](https
 ### 📦 Simple ToDo App
 Minimal Todo App, save tasks and todo lists, cross off when finished. Light and Dark Mode. [Try](https://0xronin.github.io/ToDo/)
 
-### 📦 Crypthik Blog
-Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
-
-## ✨Web3 Weekends
-A challenge that I have given myself to build a small WEB3 application every sunday and share the code here. Feel free to reach out to me if you face any issues while following along.
-
-### 📦 NFT Fetcher
-NFT fetching web dapp using the NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
 
 ## 🐦Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xZKP) 
