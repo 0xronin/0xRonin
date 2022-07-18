@@ -7,7 +7,7 @@
 🌱 I’ve recently started learning Solidity <br>
 💬 Ask me about Philosophy and Bodybuilding <br>
 🌎 My side on the internet is www.0xron.in <br>
-👨‍💻 HoursOfLearning: 57:18 (Updated Daily)
+👨‍💻 HoursOfLearning: 62:21 (Updated Daily)
 
 ## 🛣️ My Blockchain Developement Journey
 https://github.com/0xronin/My-Blockchain-Developement-Journey
