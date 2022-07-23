@@ -18,10 +18,12 @@ https://github.com/0xronin/My-Blockchain-Developement-Journey
 A challenge that I have given myself to build a small WEB3 dapp every weekend and share the code here. 
 
 ### 📦 Token Swapper
-Swap ERC20 Token you own from a list 4000 other tokens. [Try](https://0xronin.github.io/swap-dex/)
+Swap ERC20 Token you own from a list of 4000 other tokens. [Try](https://0xronin.github.io/swap-dex/)
 
 ### 📦 NFT Fetcher
 NFT fetching web dapp using NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
+
+# Projects
 
 ### 📦 Crypthik Blog
 Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
