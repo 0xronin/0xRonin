@@ -17,6 +17,9 @@ https://github.com/0xronin/My-Blockchain-Developement-Journey
 ## ✨Web3 Weekends
 A challenge that I have given myself to build a small WEB3 dapp every weekend and share the code here. 
 
+### 📦 Token Swapper
+Swap ERC20 Token you own from a list 4000 other tokens. [Try](https://0xronin.github.io/swap-dex/)
+
 ### 📦 NFT Fetcher
 NFT fetching web dapp using NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
 
