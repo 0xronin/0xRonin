@@ -23,7 +23,7 @@ Swap ERC20 Token you own from a list of 4000 other tokens. [Try](https://0xronin
 ### 📦 NFT Fetcher
 NFT fetching web dapp using NextJs Alchemy API & TailwindCSS. [Try](https://nft-gallery-tan.vercel.app/)
 
-# Projects
+## Projects
 
 ### 📦 Crypthik Blog
 Built using NextJs, Tailwind, Sanity and deployed on Vercel, Crypthik is my personal blog where I share crypto articles and resources that are interesting and important to know. Visit www.crypthik.com
