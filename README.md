@@ -1,11 +1,11 @@
-## Hi, I'm 0xRon.in(https://0xron.in)
+## Hi, I'm [Ronin](https://0xron.in)
 
  I aspire to write secure smart contracts and build Decentralized systems and applications,
  that minimize or eliminate our reliance on centralized third parties.
 
 - 💻 I like blockchain technology and solidity
 - 🎓 I have a passion for web3 and learning it online from [LearnWeb3Dao](https://github.com/LearnWeb3DAO), Alchemy's [RoadToWeb3](https://docs.alchemy.com/alchemy/road-to-web3/important-info) and [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz).
-
+- Find more at [0xRon.in](http://0xron.in/)
 <br /> 
 
 [twitter]: https://twitter.com/0xZKP
