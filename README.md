@@ -10,8 +10,6 @@
 
 [twitter]: https://twitter.com/0xZKP
 
-## Connect with me
-
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=0xRonin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
