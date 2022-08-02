@@ -10,6 +10,10 @@
 
 [twitter]: https://twitter.com/0xZKP
 
+[<img align="left" alt="DCBuilder | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+<br /> 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=0xRonin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
