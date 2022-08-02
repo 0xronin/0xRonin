@@ -1,4 +1,4 @@
-## Hi, I'm [Ronin](https://twitter.com/0xZKP)
+## Hi, I'm 0xRon.in(https://0xron.in)
 
  I aspire to write secure smart contracts and build Decentralized systems and applications,
  that minimize or eliminate our reliance on centralized third parties.
