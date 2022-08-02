@@ -6,7 +6,7 @@
 🤝 I’m interested in ETH and MEV <br>
 🌱 I’ve recently started learning Solidity <br>
 💬 Ask me about Philosophy and Bodybuilding <br>
-🌎 My side on the internet is www.0xron.in <br>
+🌎 Find more at www.0xron.in <br>
 👨‍💻 HoursOfLearning: 73:53 (Updated Daily)
 
 ## 🛣️ My Blockchain Developement Journey
