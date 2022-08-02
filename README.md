@@ -1,13 +1,30 @@
-### gm fren 👋
-# I am 🗡️0xRonin
-### ✨aspiring 🔮web3 🧙‍♂️developer
-<br>
-🔭 I’m currently learning to build dapps <br>
-🤝 I’m interested in ETH and MEV <br>
-🌱 I’ve recently started learning Solidity <br>
-💬 Ask me about Philosophy and Bodybuilding <br>
-🌎 Find more at www.0xron.in <br>
-👨‍💻 HoursOfLearning: 73:53 (Updated Daily)
+## Hi, I'm [OxRonin](https://twitter.com/0xZKP).
+
+The idea of decentralizaton and decentralized networks facinates me.
+I aim to build along it.
+
+- 💻 I like blockchain technology and solidity
+- 🎓 I have a passion for web3 and learning it online from LearnWeb3Dao, Alchemy's RoadToWeb3 and [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz).
+
+
+### Blockchain Development (EVM)
+
+- Solidity
+
+
+### Languages and Frameworks
+
+- React
+- Next.js
+
+<br />
+
+<br /> 
+
+[twitter]: https://twitter.com/0xZKP
+
+## Connect with me
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=0xRonin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
