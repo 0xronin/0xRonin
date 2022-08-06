@@ -4,7 +4,7 @@
  that minimize or eliminate our reliance on centralized third parties.
 
 - 💻 I like blockchain technology and solidity
-- 🎓 I have a passion for web3 and learning it online from Alchemy's [RoadToWeb3](https://docs.alchemy.com/alchemy/road-to-web3/important-info) and [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz).
+- 🎓 I have a passion for web3 and learning it online from Alchemy's [RoadToWeb3](https://docs.alchemy.com/alchemy/road-to-web3/important-info) and WBW3's [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz).
 - 🌄 Find more at [0xRon.in](http://0xron.in/)
 <br /> 
 
