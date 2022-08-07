@@ -7,7 +7,7 @@
 * 🎓 I have a passion for web3 and learning it online from 
     - Alchemy's [RoadToWeb3](https://docs.alchemy.com/alchemy/road-to-web3/important-info)
     - WBW3's [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz) 
-    - Early Contributor [LearnWeb3DAO](https://github.com/LearnWeb3DAO).
+    - Early Contributor [LearnWeb3DAO](https://github.com/LearnWeb3DAO)
 * 🌄 Find more at [0xRon.in](http://0xron.in/)
 <br /> 
 
