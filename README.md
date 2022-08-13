@@ -18,6 +18,8 @@
 
 
 <br /> 
+## 🛣️ My Blockchain Developement Journey
+https://github.com/0xronin/My-Blockchain-Developement-Journey
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=0xRonin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -27,9 +29,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=0xRonin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🛣️ My Blockchain Developement Journey
-https://github.com/0xronin/My-Blockchain-Developement-Journey
 
 ## 💻 My Projects
 
