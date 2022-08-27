@@ -5,8 +5,8 @@
 
 * 💻 I like blockchain technology and solidity
 * 🎓 I have a passion for web3 and learning it online from 
-    - Member - @ [SNOW](https://guild.xyz/snow)
-    - Fellow - @ [notfellows](https://twitter.com/notfellows)
+    - Member [@SNOW](https://guild.xyz/snow)
+    - Fellow [@notfellows](https://twitter.com/notfellows)
     - Cohort Member - Growic [Solidity Program](https://growic.com/) 
     - Member - Alchemy's [RoadToWeb3](https://docs.alchemy.com/alchemy/road-to-web3/important-info)
     - Cohort Member - WBW3's [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz) 
