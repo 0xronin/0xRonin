@@ -11,6 +11,7 @@
     - Member - Alchemy's [RoadToWeb3](https://docs.alchemy.com/alchemy/road-to-web3/important-info)
     - Cohort Member - WBW3's [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz) 
     - Early Contributor - [LearnWeb3DAO](https://github.com/LearnWeb3DAO)
+* :scroll: ProofOfWork [NFTs](https://opensea.io/ronin0x)
 * 🌄 Find more at [0xRon.in](http://0xron.in/)
 <br /> 
 
