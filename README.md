@@ -1,7 +1,7 @@
 ## Hi, I'm [Ronin](https://twitter.com/0xZKP)
 
  I aspire to write secure smart contracts and build Decentralized systems and applications,
- that minimize or eliminate our reliance on centralized third parties.
+ that minimize or eliminate our reliance on centralized third parties. 
 
 * 💻 I like blockchain technology and solidity
 * 🎓 I have a passion for web3 and learning it online from 
@@ -12,6 +12,7 @@
     - Cohort Member - WBW3's [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz) 
     - Early Contributor - [LearnWeb3DAO](https://github.com/LearnWeb3DAO)
 * :scroll: ProofOfWork [NFTs](https://opensea.io/ronin0x)
+* :tv: [My YouTube](https://www.youtube.com/channel/UC25WTNqM27pypYU8cTLwNDA)
 * 🌄 Find more at [0xRon.in](http://0xron.in/)
 <br /> 
 
