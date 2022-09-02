@@ -7,7 +7,7 @@
 * 🎓 I have a passion for web3 and learning it online from 
     - Adventurer [@SNOW](https://guild.xyz/snow)
     - Fellow [@notfellows](https://twitter.com/notfellows)
-    - Builder - [speedrunethereum](https://speedrunethereum.com/builders/0xC218ba35881CC17bB20D3b4D3B0cf6EBca67BA97)
+    - Learner [@speedrunethereum](https://speedrunethereum.com/builders/0xC218ba35881CC17bB20D3b4D3B0cf6EBca67BA97)
     - Cohort Member - Growic [Solidity Program](https://growic.com/) 
     - Member - Alchemy's [RoadToWeb3](https://docs.alchemy.com/alchemy/road-to-web3/important-info)
     - Cohort Member - WBW3's [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz) 
