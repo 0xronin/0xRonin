@@ -5,7 +5,7 @@
 
 * 💻 I like blockchain technology and solidity
 * 🎓 I have a passion for web3 and learning it online from 
-    - Member [@SNOW](https://guild.xyz/snow)
+    - Adventurer [@SNOW](https://guild.xyz/snow)
     - Fellow [@notfellows](https://twitter.com/notfellows)
     - Builder - [speedrunethereum](https://speedrunethereum.com/builders/0xC218ba35881CC17bB20D3b4D3B0cf6EBca67BA97)
     - Cohort Member - Growic [Solidity Program](https://growic.com/) 
