@@ -13,8 +13,8 @@
     - Cohort Member - WBW3's [30DaysofWeb3](https://github.com/womenbuildweb3/30daysofweb3.xyz) 
     - Early Contributor - [LearnWeb3DAO](https://github.com/LearnWeb3DAO)
 * :scroll: ProofOfWork [NFTs](https://opensea.io/ronin0x)
-* :tv: [My YouTube](https://www.youtube.com/channel/UC25WTNqM27pypYU8cTLwNDA)
-* 🌄 Find more at [0xRon.in](http://0xron.in/)
+* :tv: [YouTube](https://www.youtube.com/channel/UC25WTNqM27pypYU8cTLwNDA)
+* 🌄 Website [0xRon.in](http://0xron.in/)
 <br /> 
 
 [twitter]: https://twitter.com/0xZKP
