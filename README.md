@@ -1,6 +1,6 @@
 ## Hi, I'm [Ronin](https://twitter.com/0xZKP)
 
- I aspire to write secure smart contracts and build Decentralized systems and applications,
+ I aspire to write secure smart contracts for Decentralized systems and applications,
  that minimize or eliminate our reliance on centralized third parties. 
 
 * 💻 I like blockchain technology and solidity
